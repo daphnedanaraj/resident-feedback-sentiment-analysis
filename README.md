@@ -39,7 +39,7 @@ This project analyzes simulated resident feedback using sentiment analysis and d
 ## 📈 Sentiment Over Time
 
 - 📈 **Peak Sentiment**: 01.00 on **19 June**
-- 📉 **Lowest Sentiment**: 0.65 on **06 May**
+- 📉 **Lowest Sentiment**: 0.65 on **05 June**
 
 This visual trend helps uncover patterns related to events, outages, or service improvements.
 
@@ -74,7 +74,7 @@ Common words: *wifi, broken, noisy, maintenance, dirty*
 | Neutral Sentiment        | 31.5% (63)     |
 | Negative Sentiment       | 21.0% (42)     |
 | Peak Sentiment Date      | 19 June 2025   |
-| Lowest Sentiment Date    | 06 May 2025    |
+| Lowest Sentiment Date    | 05 June 2025    |
 
 ---
 
