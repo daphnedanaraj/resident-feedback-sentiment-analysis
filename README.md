@@ -39,7 +39,7 @@ This project analyzes simulated resident feedback using sentiment analysis and d
 ## 📈 Sentiment Over Time
 
 - 📈 **Peak Sentiment**: 01.00 on **19 June**
-- 📉 **Lowest Sentiment**: 0.65 on **05 June**
+- 📉 **Lowest Sentiment**: -0.60 on **05 June**
 
 This visual trend helps uncover patterns related to events, outages, or service improvements.
 
